@@ -1,2 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@500;700&family=Roboto:wght@400;700&display=swap");
+@import "./scss/config/reset.scss";
+@import "./scss/config/variables.scss";
+@import "./scss/config/general.scss";
 @import "./scss/sections/header.scss";
+@import "./scss/sections/about.scss";
+@import "./scss/sections/role.scss";
+@import "./scss/sections/skills.scss";
+@import "./scss/sections/contact.scss";
+@import "./scss/sections/works.scss";

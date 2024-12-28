@@ -1,0 +1,64 @@
+/* CONTACT ME */
+
+.contact-me {
+    background-color: $bgContact;
+    padding: 100px 0 20px 0;
+  
+    h3 {
+      color: $primaryColor;
+      text-align: center;
+      letter-spacing: 0.2em;
+      font-size: 3rem;
+      font-weight: 700;
+      letter-spacing: 0.5rem;
+    }
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .download {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 80px;
+  
+    a {
+      color: $secondaryColor;
+      text-decoration: underline;
+      font-size: 1.2em;
+      background-color: $primaryColor;
+      border-radius: 16px;
+      padding: 25px 70px;
+      font-family: $principalFont;
+  
+      &:hover {
+        color: $whiteColor;
+      }
+    }
+  }
+  
+  .social-links {
+    margin: 50px 0;
+  
+    img {
+      width: 30px;
+  
+      &:hover {
+        transition: all ease 0.5s;
+        transform: scale(1.15);
+      }
+    }
+  }
+  
+  .links nav ul {
+    justify-content: center;
+    padding: 20px;
+  
+    li {
+      padding: 10px 50px;
+    }
+  }
