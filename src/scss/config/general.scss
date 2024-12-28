@@ -1,0 +1,35 @@
+body {
+    overflow-x: hidden;
+    width: 100vw;
+    background-color: $bgColor;
+    scroll-behavior: smooth;
+    font-family: "Bebas Neue", cursive;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* BACK TO THE TOP */
+  
+  button {
+    padding: 20px;
+    border-radius: 50%;
+    background-color: $primaryColor;
+    border: 1px solid $primaryColor;
+  
+    img {
+      width: 20px;
+    }
+  }
+  
+  #back-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+  
+    &:after {
+      transition: margin-top 250ms;
+    }
+  }

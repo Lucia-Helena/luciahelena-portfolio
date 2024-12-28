@@ -1,15 +1,16 @@
 {
-  "name": "luciahelena-portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Meu portfólio",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "sass": "sass src/main.scss build/main.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "sass": "^1.83.0"
+    "sass": "^1.61.0"
   }
 }
