@@ -1,7 +1,7 @@
 let typing = new Typed(".animate", {
     strings: [
-      "Eu sou uma",
-      "Curiosa",
+      "Olá!",
+      "Me chamo Lúcia Helena proença",
       "Desenvolvedora Front-End",
       "Curiosa",
       "Apreciadora de UX/UI",
