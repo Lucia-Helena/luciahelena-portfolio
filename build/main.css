@@ -282,36 +282,21 @@ article {
 }
 
 #one {
-  background-image: url(/src/images/projects/next-trip.png);
+  background-image: url(/src/images/projects/restaurante.jpg);
 }
 
 #two {
-  background-image: url(/src/images/projects/lily-co.png);
+  background-image: url(/src/images/projects/calculadora_media_escolar.jpg);
 }
 
 #three {
-  background-image: url(/src/images/projects/little-fawn.png);
+  background-image: url(/src/images/projects/calculadora_imc.jpg);
 }
 
 #four {
-  background-image: url(/src/images/projects/madeleine.png);
+  background-image: url(/src/images/projects/agenda_contatos.jpg);
 }
 
-#five {
-  background-image: url(/src/images/projects/honey-blue.png);
-}
-
-#six {
-  background-image: url(/src/images/projects/h-muller.png);
-}
-
-#seven {
-  background-image: url(/src/images/projects/texas.png);
-}
-
-#eight {
-  background-image: url(/src/images/projects/indecor.png);
-}
 
 @media screen and (min-width: 1024px) and (max-width: 1260px) {
   .role h2 {

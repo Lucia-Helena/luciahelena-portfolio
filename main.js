@@ -3,8 +3,6 @@ let typing = new Typed(".animate", {
       "Olá!",
       "Me chamo Lúcia Helena proença",
       "Desenvolvedora Front-End",
-      "Curiosa",
-      "Apreciadora de UX/UI",
       "Apaixonada por desenvolvimento web",
     ],
     typeSpeed: 120,
